@@ -1,8 +1,182 @@
 [
   {
     "title": "WordPress Developer",
-    "description": "Fix WooCommerce bugs.",
+    "description": "Fix WooCommerce bugs and add features.",
     "link": "https://www.upwork.com",
     "deadline": "2025-12-31"
+  },
+  {
+    "title": "Logo Designer for Startup",
+    "description": "Create modern logo and brand identity.",
+    "link": "https://www.freelancer.com",
+    "deadline": "2025-12-30"
+  },
+  {
+    "title": "React Frontend Developer",
+    "description": "Build responsive UI from Figma design.",
+    "link": "https://www.upwork.com",
+    "deadline": "2025-12-29"
+  },
+  {
+    "title": "Content Writer (Tech Blog)",
+    "description": "Write 10 SEO articles on AI and web development.",
+    "link": "https://www.freelancer.com",
+    "deadline": "2025-12-28"
+  },
+  {
+    "title": "Mobile App Tester",
+    "description": "Test Android app and report bugs.",
+    "link": "https://www.upwork.com",
+    "deadline": "2025-12-27"
+  },
+  {
+    "title": "Social Media Manager",
+    "description": "Manage Instagram & LinkedIn for SaaS company.",
+    "link": "https://www.freelancer.com",
+    "deadline": "2025-12-26"
+  },
+  {
+    "title": "Python Backend Developer",
+    "description": "Build REST API with Django.",
+    "link": "https://www.upwork.com",
+    "deadline": "2025-12-25"
+  },
+  {
+    "title": "Video Editor for YouTube",
+    "description": "Edit 5 tech review videos.",
+    "link": "https://www.fiverr.com",
+    "deadline": "2025-12-24"
+  },
+  {
+    "title": "UI/UX Designer",
+    "description": "Redesign dashboard for fintech app.",
+    "link": "https://www.upwork.com",
+    "deadline": "2025-12-23"
+  },
+  {
+    "title": "SEO Specialist",
+    "description": "Improve Google ranking for e-commerce site.",
+    "link": "https://www.freelancer.com",
+    "deadline": "2025-12-22"
+  },
+  {
+    "title": "Flutter Developer",
+    "description": "Build cross-platform mobile app.",
+    "link": "https://www.upwork.com",
+    "deadline": "2025-12-21"
+  },
+  {
+    "title": "Copywriter for Ads",
+    "description": "Write 20 Facebook ad copies.",
+    "link": "https://www.fiverr.com",
+    "deadline": "2025-12-20"
+  },
+  {
+    "title": "Node.js API Developer",
+    "description": "Create secure backend for web app.",
+    "link": "https://www.upwork.com",
+    "deadline": "2025-12-19"
+  },
+  {
+    "title": "Illustrator for Children's Book",
+    "description": "Draw 20 illustrations for a storybook.",
+    "link": "https://www.freelancer.com",
+    "deadline": "2025-12-18"
+  },
+  {
+    "title": "Data Entry Specialist",
+    "description": "Enter 500 records into Excel sheet.",
+    "link": "https://www.upwork.com",
+    "deadline": "2025-12-17"
+  },
+  {
+    "title": "Voice Over Artist",
+    "description": "Record 10-minute explainer video in English.",
+    "link": "https://www.fiverr.com",
+    "deadline": "2025-12-16"
+  },
+  {
+    "title": "Shopify Store Setup",
+    "description": "Build and configure Shopify store from scratch.",
+    "link": "https://www.upwork.com",
+    "deadline": "2025-12-15"
+  },
+  {
+    "title": "Email Template Designer",
+    "description": "Create 5 responsive email templates.",
+    "link": "https://www.freelancer.com",
+    "deadline": "2025-12-14"
+  },
+  {
+    "title": "Angular Developer",
+    "description": "Migrate legacy app to Angular 17.",
+    "link": "https://www.upwork.com",
+    "deadline": "2025-12-13"
+  },
+  {
+    "title": "Product Description Writer",
+    "description": "Write 100 e-commerce product descriptions.",
+    "link": "https://www.fiverr.com",
+    "deadline": "2025-12-12"
+  },
+  {
+    "title": "WordPress Security Audit",
+    "description": "Check and fix security issues on WordPress site.",
+    "link": "https://www.upwork.com",
+    "deadline": "2025-12-11"
+  },
+  {
+    "title": "Google Ads Expert",
+    "description": "Run campaign for online store with $500 budget.",
+    "link": "https://www.freelancer.com",
+    "deadline": "2025-12-10"
+  },
+  {
+    "title": "Laravel Developer",
+    "description": "Build custom CRM system for small business.",
+    "link": "https://www.upwork.com",
+    "deadline": "2025-12-09"
+  },
+  {
+    "title": "YouTube Thumbnail Designer",
+    "description": "Create 30 eye-catching thumbnails for tech channel.",
+    "link": "https://www.fiverr.com",
+    "deadline": "2025-12-08"
+  },
+  {
+    "title": "Magento Developer",
+    "description": "Fix checkout issues on Magento 2 store.",
+    "link": "https://www.upwork.com",
+    "deadline": "2025-12-07"
+  },
+  {
+    "title": "Translator (English to Telugu)",
+    "description": "Translate 5000 words document accurately.",
+    "link": "https://www.freelancer.com",
+    "deadline": "2025-12-06"
+  },
+  {
+    "title": "WordPress Plugin Customization",
+    "description": "Modify WooCommerce plugin for custom needs.",
+    "link": "https://www.upwork.com",
+    "deadline": "2025-12-05"
+  },
+  {
+    "title": "TikTok Content Creator",
+    "description": "Create 15 short videos per week for brand.",
+    "link": "https://www.fiverr.com",
+    "deadline": "2025-12-04"
+  },
+  {
+    "title": "Database Optimization",
+    "description": "Optimize MySQL queries for speed and efficiency.",
+    "link": "https://www.upwork.com",
+    "deadline": "2025-12-03"
+  },
+  {
+    "title": "3D Product Modeling",
+    "description": "Create 3D model for furniture design.",
+    "link": "https://www.freelancer.com",
+    "deadline": "2025-12-02"
   }
 ]
